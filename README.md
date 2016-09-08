@@ -10,7 +10,7 @@ Project Date | Project(s)             | Folder
 2013         | Stopwords list         | `stopwords`
 2015         | Urban Areas            | `urban-areas`
 2015         | [Geography of the Post](http://cameronblevins.org/gotp/)  | `geography-post`
-2015         | Historical U.S. cities | `historical-cities
+2015         | Historical U.S. cities | `historical-cities`
 2016         | Shootings and gun deaths | `shootings`
 2016         | Oil spills in the U.S. | `oil-spills`
 2016         | [Federal Lands](http://jasonheppler.org/2016/01/06/western-federal-lands-and-oregon/)          | `federal-lands`
