@@ -4,6 +4,8 @@ My hope is people will use this to check my work and create their own visualizat
 
 This is a work-in-progress. Data, scripts, and README's will be added when time permits.
 
+Also note my [open research notebook](http://notebook.jasonheppler.org).
+
 Project Date | Project(s)             | Folder
 ------------ | ---------------------- | ------
 2010         | Lakes and rivers shapefiles | `lakes-rivers`
